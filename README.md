@@ -3,7 +3,7 @@
 
 A simple Java Swing Desktop app that allows the solving of quadratic equation.<br/>
 
-## Displays the following information: ##<br/>
+** Displays the following information: **<br/>
 <ul>
     <li>Nature of the Quadratic Roots</li>
     <li>First and Second Roots of the Quadratic Equation</li>
