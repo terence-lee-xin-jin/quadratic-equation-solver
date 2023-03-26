@@ -1,7 +1,7 @@
 # Quadratic Equation Solver
 
 
-A simple Java Swing Desktop app that allows the solving of quadratic equation.<br/>
+A simple Java Swing Desktop app that allows the solving of quadratic equation.<br/><br/>
 
 **Displays the following information:**<br/>
 <ul>
@@ -13,7 +13,7 @@ A simple Java Swing Desktop app that allows the solving of quadratic equation.<b
     <li>Product of Roots</li>
 </ul>
 
-<br/><br/>
+<br/>
 
 **Author:** Terence Lee Xin Jin<br/><br/>
 
