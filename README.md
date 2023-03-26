@@ -20,6 +20,6 @@ A simple Java Swing Desktop app that allows the solving of quadratic equation.<b
 
 
 ## Skills:
-   **Languages/Frameworks:** JavaFX, FXML, Java<br/><br/>
+   **Languages/Frameworks:** Java Swing, Java<br/><br/>
    **Tools:** IDEA Intellij IDE<br/><br/>
    **Testing Framework:** JUnit (Parameterized Unit Testing)<br/><br/>
